@@ -220,69 +220,6 @@
                     <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-drools">itstack-demo-drools</a>
                     </td>
                 </tr>
-                <tr>
-                    <td align="center">13</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="tractor"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f69c.png">🚜
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="#tractor-ASM%E5%AD%97%E8%8A%82%E7%A0%81%E7%BC%96%E7%A8%8B"><code>ASM字节码编程</code></a>
-                    </td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-asm">itstack-demo-asm</a></td>
-                </tr>
-                <tr>
-                    <td align="center">14</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="feet"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png">🐾
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="#paw_prints-%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%88%B0%E6%AF%95%E4%B8%9A%E5%B7%A5%E4%BD%9C5%E5%B9%B4%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E8%B5%84%E6%BA%90%E5%92%8C%E9%9D%A2%E8%AF%95%E6%B1%87%E6%80%BB"><code>我的大学四年到毕业工作5年的学习资源和面试汇总</code></a>
-                    </td>
-                    <td align="left"><a href="https://pan.baidu.com/s/4mmX7sDy" rel="nofollow">https://pan.baidu.com/s/4mmX7sDy
-                        - （if链接失效，加我微信：fustack）</a></td>
-                </tr>
-                <tr>
-                    <td align="center">15</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="walking"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b6.png">🚶
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="#walking-Netty%E4%BB%BF%E6%A1%8C%E9%9D%A2%E7%89%88%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9"><code>Netty+JavaFx实战：仿桌面版微信聊天</code></a>
-                    </td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/NaiveChat">NaiveChat</a></td>
-                </tr>
-                <tr>
-                    <td align="center">16</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="bookmark_tabs"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png">📑
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="https://bugstack.cn/itstack-demo-any/2019/12/10/%E6%9C%89%E7%82%B9%E5%B9%B2%E8%B4%A7-Jdk1.8%E6%96%B0%E7%89%B9%E6%80%A7%E5%AE%9E%E6%88%98%E7%AF%87(41%E4%B8%AA%E6%A1%88%E4%BE%8B).html"
-                            rel="nofollow"><code>JDK1.8新特性41个案例讲解</code></a></td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-jdk8">itstack-demo-jdk8</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center">17</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="bike"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png">🚲
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="#bike-%E5%AD%97%E8%8A%82%E7%A0%81%E7%BC%96%E7%A8%8B%E4%B8%93%E6%A0%8F"><code>小傅哥的《字节码编程》专栏</code></a>
-                    </td>
-                    <td align="left"><a
-                            href="https://github.com/fuzhengwei/itstack-demo-bytecode">itstack-demo-bytecode</a></td>
-                </tr>
                 </tbody>
             </table>
         </article>
