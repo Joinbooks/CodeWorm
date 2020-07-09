@@ -15,18 +15,18 @@
             </a>CodeGuide | 程序员编码指南
             </h1>
             <blockquote>
-                <p><strong>作者：</strong> 小傅哥，Java Developer，<a href="https://bugstack.cn" rel="nofollow">
+                <p><strong>作者：</strong> 愿做BookWorm，Java Developer，<a href="https://bugstack.cn" rel="nofollow">
                     <g-emoji class="g-emoji" alias="pencil2"
                              fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270f.png">✏️
                     </g-emoji>
-                    虫洞 · 科技栈，作者</a>，<a href="https://bugstack.blog.csdn.net" rel="nofollow">
+                    虫洞 · 科技栈，作者</a>，<a href="https://segmentfault.com/u/yuanzuobookworm/articles" rel="nofollow">
                     <g-emoji class="g-emoji" alias="trophy"
-                             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆
+                             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">⚡️
                     </g-emoji>
-                    CSDN 博客专家</a></p>
+                    思否新人</a></p>
             </blockquote>
             <blockquote>
-                <p>本代码库是作者小傅哥多年从事一线互联网<code>Java</code>开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+                <p>本代码库是作者愿做Bookworm毕业后从事<code>Java</code>开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
                 </p>
             </blockquote>
             <br>
