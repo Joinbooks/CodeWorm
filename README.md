@@ -16,7 +16,7 @@
                     </g-emoji>
                     虫洞 · 科技栈，作者</a>，<a href="https://segmentfault.com/u/yuanzuobookworm/articles" rel="nofollow">
                     <g-emoji class="g-emoji" alias="trophy"
-                             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆
+                             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🚀
                     </g-emoji>
                     思否新人</a></p>
             </blockquote>
