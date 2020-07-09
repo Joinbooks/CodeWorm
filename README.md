@@ -25,15 +25,14 @@
                 </p>
             </blockquote>
             <br>
-                       <div align="center">
+                 <div align="center">
                 <a href="https://bugstack.cn" rel="nofollow"><img
                         src="https://camo.githubusercontent.com/4c16d08d1a90d726e1b657f228dd2eef890bf7d5/68747470733a2f2f627567737461636b2e636e2f6173736574732f696d616765732f69636f6e2e737667"
                         width="128px" data-canonical-src="https://bugstack.cn/assets/images/icon.svg"
                         style="max-width:100%;"></a>
             </div>
             <br>
-
-           <div align="center">
+            <div align="center">
                 <a href="https://github.com/Joinbooks/CodeWorm"><img
                         src="https://camo.githubusercontent.com/53b841885acedef5398d276db5a3f596a60dd54b/68747470733a2f2f62616467656e2e6e65742f6769746875622f73746172732f66757a68656e677765692f436f646547756964653f69636f6e3d67697468756226636f6c6f723d346162386131"
                         data-canonical-src="https://badgen.net/github/stars/Joinbooks/CodeWorm?icon=github&amp;color=4ab8a1"
@@ -50,7 +49,6 @@
                         src="https://camo.githubusercontent.com/e2ce00728112a2973dea30a6ce6a51464b2c1a5c/68747470733a2f2f6974737461636b2e6f72672f5f6d656469612f7778627567737461636b2e737667"
                         data-canonical-src="https://itstack.org/_media/wxbugstack.svg" style="max-width:100%;"></a>
             </div>
-            <br>
         </article>
     </div>
 </div>
