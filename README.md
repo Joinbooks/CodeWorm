@@ -84,18 +84,7 @@
                             href="https://github.com/fuzhengwei/itstack-demo-netty">joinworm-cargo-spring</a>
                     </td>
                 </tr>
-                <tr>
-                    <td align="center">1</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="sound"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f509.png">🌱
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a href="#sound-Netty4%E4%B8%93%E9%A2%98"><code>Spring专题</code></a></td>
-                    <td align="left"><a
-                            href="https://github.com/fuzhengwei/itstack-demo-netty">joinworm-cargo-spring</a>
-                    </td>
-                </tr>
+          
                 </tbody>
             </table>
         </article>
