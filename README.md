@@ -197,30 +197,6 @@
                     </td>
                 </tr>
                 <tr>
-                    <td align="center">11</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="flashlight"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f526.png">🔦
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a href="#flashlight-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90"><code>源码分析(Spring、Mybatis、Schedule)</code></a>
-                    </td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-code">itstack-demo-code</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center">12</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="airplane"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a
-                            href="#airplane-Drools%E8%A7%84%E5%88%99%E5%BC%95%E6%93%8E"><code>Drools规则引擎</code></a></td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-drools">itstack-demo-drools</a>
-                    </td>
-                </tr>
-                <tr>
                     <td align="center">13</td>
                     <td align="center">
                         <g-emoji class="g-emoji" alias="tractor"
@@ -232,7 +208,20 @@
                     </td>
                     <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-asm">itstack-demo-asm</a></td>
                 </tr>
-
+                <tr>
+                    <td align="center">14</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="feet"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png">🐾
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#paw_prints-%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%88%B0%E6%AF%95%E4%B8%9A%E5%B7%A5%E4%BD%9C5%E5%B9%B4%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E8%B5%84%E6%BA%90%E5%92%8C%E9%9D%A2%E8%AF%95%E6%B1%87%E6%80%BB"><code>我的大学四年到毕业工作5年的学习资源和面试汇总</code></a>
+                    </td>
+                    <td align="left"><a href="https://pan.baidu.com/s/4mmX7sDy" rel="nofollow">https://pan.baidu.com/s/4mmX7sDy
+                        - （if链接失效，加我微信：fustack）</a></td>
+                </tr>
+           
                 </tbody>
             </table>
         </article>
