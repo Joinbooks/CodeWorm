@@ -32,12 +32,13 @@
                         style="max-width:100%;"></a>
             </div>
             <br>
-            <div align="center">
-                <a href="https://github.com/fuzhengwei/CodeGuide"><img
+
+           <div align="center">
+                <a href="https://github.com/Joinbooks/CodeWorm"><img
                         src="https://camo.githubusercontent.com/53b841885acedef5398d276db5a3f596a60dd54b/68747470733a2f2f62616467656e2e6e65742f6769746875622f73746172732f66757a68656e677765692f436f646547756964653f69636f6e3d67697468756226636f6c6f723d346162386131"
                         data-canonical-src="https://badgen.net/github/stars/Joinbooks/CodeWorm?icon=github&amp;color=4ab8a1"
                         style="max-width:100%;"></a>
-                <a href="https://github.com/fuzhengwei/CodeGuide"><img
+                <a href="https://github.com/Joinbooks/CodeWorm"><img
                         src="https://camo.githubusercontent.com/54038374ab453650eb9db157471c4a0fdff44dcc/68747470733a2f2f62616467656e2e6e65742f6769746875622f666f726b732f66757a68656e677765692f436f646547756964653f69636f6e3d67697468756226636f6c6f723d346162386131"
                         data-canonical-src="https://badgen.net/github/forks/Joinbooks/CodeWorm?icon=github&amp;color=4ab8a1"
                         style="max-width:100%;"></a>
@@ -45,7 +46,7 @@
                         src="https://camo.githubusercontent.com/f30a026832ee32458c5ba7d065d53b0245c2fdcb/68747470733a2f2f627567737461636b2e636e2f6173736574732f696d616765732f6f6e6c696e65626f6f6b2e737667"
                         data-canonical-src="https://bugstack.cn/assets/images/onlinebook.svg"
                         style="max-width:100%;"></a>
-                <a href="https://bugstack.cn/assets/images/qrcode.png?x-oss-process=style/may" rel="nofollow"><img
+                <a href="#" rel="nofollow"><img
                         src="https://camo.githubusercontent.com/e2ce00728112a2973dea30a6ce6a51464b2c1a5c/68747470733a2f2f6974737461636b2e6f72672f5f6d656469612f7778627567737461636b2e737667"
                         data-canonical-src="https://itstack.org/_media/wxbugstack.svg" style="max-width:100%;"></a>
             </div>
