@@ -1,4 +1,3 @@
-
 <div id="readme" class="Box md js-code-block-container Box--responsive">
     <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
         <h2 class="Box-title pr-3">
@@ -88,7 +87,41 @@
                     <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-netty">itstack-demo-netty</a>
                     </td>
                 </tr>
-              
+                <tr>
+                    <td align="center">2</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="electric_plug"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#electric_plug-%E6%89%8B%E5%86%99RPC%E6%A1%86%E6%9E%B6"><code>手写RPC框架</code></a></td>
+                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-rpc">itstack-demo-rpc</a></td>
+                </tr>
+                <tr>
+                    <td align="center">3</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="computer"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a href="#computer-%E7%94%A8Java%E5%AE%9E%E7%8E%B0JVM"><code>用Java实现JVM</code></a>
+                    </td>
+                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-jvm">itstack-demo-jvm</a></td>
+                </tr>
+                <tr>
+                    <td align="center">4</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="ghost"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#ghost-%E5%9F%BA%E4%BA%8EJavaAgent%E7%9A%84%E5%85%A8%E9%93%BE%E8%B7%AF%E7%9B%91%E6%8E%A7"><code>基于JavaAgent的全链路监控</code></a>
+                    </td>
+                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-agent">itstack-demo-agent</a>
+                    </td>
+                </tr>
                 <tr>
                     <td align="center">5</td>
                     <td align="center">
@@ -229,4 +262,3 @@
         </article>
     </div>
 </div>
-
