@@ -1,9 +1,4 @@
 <div id="readme" class="Box md js-code-block-container Box--responsive">
-    <div class="Box-header d-flex flex-items-center flex-justify-between bg-white border-bottom-0">
-        <h2 class="Box-title pr-3">
-            README.md
-        </h2>
-    </div>
     <div class="Box-body px-5 pb-5">
         <article class="markdown-body entry-content container-lg" itemprop="text">
             <h1><a id="user-content-codeguide--程序员编码指南" class="anchor" aria-hidden="true" href="#codeguide--程序员编码指南">
