@@ -220,6 +220,45 @@
                     <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-drools">itstack-demo-drools</a>
                     </td>
                 </tr>
+                <tr>
+                    <td align="center">13</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="tractor"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f69c.png">🚜
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#tractor-ASM%E5%AD%97%E8%8A%82%E7%A0%81%E7%BC%96%E7%A8%8B"><code>ASM字节码编程</code></a>
+                    </td>
+                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-asm">itstack-demo-asm</a></td>
+                </tr>
+                <tr>
+                    <td align="center">14</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="feet"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f43e.png">🐾
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#paw_prints-%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%9B%9B%E5%B9%B4%E5%88%B0%E6%AF%95%E4%B8%9A%E5%B7%A5%E4%BD%9C5%E5%B9%B4%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E8%B5%84%E6%BA%90%E5%92%8C%E9%9D%A2%E8%AF%95%E6%B1%87%E6%80%BB"><code>我的大学四年到毕业工作5年的学习资源和面试汇总</code></a>
+                    </td>
+                    <td align="left"><a href="https://pan.baidu.com/s/4mmX7sDy" rel="nofollow">https://pan.baidu.com/s/4mmX7sDy
+                        - （if链接失效，加我微信：fustack）</a></td>
+                </tr>
+
+                <tr>
+                    <td align="center">17</td>
+                    <td align="center">
+                        <g-emoji class="g-emoji" alias="bike"
+                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b2.png">🚲
+                        </g-emoji>
+                    </td>
+                    <td align="left"><a
+                            href="#bike-%E5%AD%97%E8%8A%82%E7%A0%81%E7%BC%96%E7%A8%8B%E4%B8%93%E6%A0%8F"><code>小傅哥的《字节码编程》专栏</code></a>
+                    </td>
+                    <td align="left"><a
+                            href="https://github.com/fuzhengwei/itstack-demo-bytecode">itstack-demo-bytecode</a></td>
+                </tr>
                 </tbody>
             </table>
         </article>
