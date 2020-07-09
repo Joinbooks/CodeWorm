@@ -1,6 +1,3 @@
-# CodeWorm
-📚 本代码库是作者愿做Bookworm毕业以后用来学习的基石，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
 <div id="readme" class="Box md js-code-block-container Box--responsive">
     <div class="Box-body px-5 pb-5">
         <article class="markdown-body entry-content container-lg" itemprop="text">
