@@ -45,42 +45,6 @@
                 <a href="https://space.bilibili.com/395983874" rel="nofollow"><img
                         src="https://badgen.net/badge/Bilibili/going?icon=kofi" style="max-width:100%;"></a>
             </div>
-
-         
-            <table>
-                <thead>
-                <tr>
-                    <th align="center">ID</th>
-                    <th align="center">Logo</th>
-                    <th align="left">专栏文章</th>
-                    <th align="left">源码下载</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td align="center">0</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="volcano"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30b.png">🏗
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a href="#sound-Netty4%E4%B8%93%E9%A2%98"><code>设计模式</code></a></td>
-                    <td align="left"><a href="https://download.csdn.net/download/yao__shun__yu/11835105" rel="nofollow">joinworm-cargo-design</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center">1</td>
-                    <td align="center">
-                        <g-emoji class="g-emoji" alias="sound"
-                                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f509.png">🌱
-                        </g-emoji>
-                    </td>
-                    <td align="left"><a href="#sound-Netty4%E4%B8%93%E9%A2%98"><code>Spring专题</code></a></td>
-                    <td align="left"><a href="https://github.com/fuzhengwei/itstack-demo-netty">joinworm-cargo-spring</a>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
         </article>
     </div>
 </div>
