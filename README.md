@@ -87,7 +87,7 @@
                                  fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f509.png">🗃
                         </g-emoji>
                     </td>
-                    <td align="left"><a href="https://segmentfault.com/u/yuanzuobookworm/articles"><code>数据库调优</code></a></td>
+                    <td align="left"><a href="https://segmentfault.com/u/yuanzuobookworm/articles"><code>数据库基础</code></a></td>
                     <td align="left"><a
                             href="#">bookworm-database</a>
                     </td>
