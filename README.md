@@ -65,7 +65,7 @@
                         </g-emoji>
                     </td>
                     <td align="left"><a href="#sound-Netty4%E4%B8%93%E9%A2%98"><code>设计模式</code></a></td>
-                    <td align="left"><a href="#" rel="nofollow">bookworm-design 暂未创建:)</a>
+                    <td align="left"><a href="#" rel="nofollow">bookworm-design</a>
                     </td>
                 </tr>
                 <tr>
@@ -77,7 +77,7 @@
                     </td>
                     <td align="left"><a href="https://segmentfault.com/u/yuanzuobookworm/articles"><code>Spring专题</code></a></td>
                     <td align="left"><a
-                            href="#">bookworm-spring 暂未创建:)</a>
+                            href="#">bookworm-spring</a>
                     </td>
                 </tr>
                 <tr>
@@ -89,7 +89,7 @@
                     </td>
                     <td align="left"><a href="https://segmentfault.com/u/yuanzuobookworm/articles"><code>数据库调优</code></a></td>
                     <td align="left"><a
-                            href="#">bookworm-spring 暂未创建:)</a>
+                            href="#">bookworm-database</a>
                     </td>
                 </tr>
                 </tbody>
