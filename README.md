@@ -96,6 +96,6 @@
             </table>
         </article>
 
-    </div>
+   </div>
 </div>
 
