@@ -47,7 +47,6 @@
                         src="https://badgen.net/badge/Bilibili/going?icon=kofi" style="max-width:100%;"></a>
             </div>
             <br>
-           
             <table>
                 <thead>
                 <tr>
