@@ -20,7 +20,7 @@
                              fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">⚡️
                     </g-emoji>
                     思否新人</a></p>
-            </blockquote> 
+            </blockquote>  
             <blockquote> 
                 <p>本代码库是愿做Bookworm毕业后从事<code>Java</code>开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
                 </p> 
@@ -92,7 +92,7 @@
                             href="#">bookworm-database</a>
                     </td>
                 </tr>
-                </tbody> 
+                </tbody>  
             </table>
         </article>
 
