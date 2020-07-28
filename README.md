@@ -93,7 +93,7 @@
                     </td>
                 </tr> 
                 </tbody>  
-            </table>
+            </table> 
         </article>
    </div>
 </div> 
