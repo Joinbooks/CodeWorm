@@ -91,10 +91,10 @@
                     <td align="left"><a
                             href="#">bookworm-database</a>
                     </td>
-                </tr> 
-                </tbody>   
+                </tr>
+                </tbody> 
             </table> 
-        </article> 
+        </article>
    </div> 
 </div> 
  
